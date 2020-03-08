@@ -1,0 +1,1 @@
+command_center_ip = '' #command_center_URL -> http://ip(or domain name)
